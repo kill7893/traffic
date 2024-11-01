@@ -1,8 +1,8 @@
-由于项目文件内存太大，代码和数据都存放在网盘中。
-下载地址：
-百度网盘共享文件：流量统计
-链接：https://pan.baidu.com/s/1sgN19ZLG9Z2I-TjM3pxB4Q?pwd=jtll
-提取码：jtll
+Because the project file memory is too large, the code and data are stored in the web disk.
+Download address:
+Files shared through Baidu Web disk: traffic flow statistics
+Link: https://pan.baidu.com/s/1sgN19ZLG9Z2I-TjM3pxB4Q?pwd=jtll
+Extract code: jtll
 
 
-本代码仅供学习使用，请勿用于商业用途。
+This code is for learning purposes and is not for commercial use.
