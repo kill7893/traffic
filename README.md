@@ -1,8 +1,9 @@
-Because the project file memory is too large, the code and data are stored in the web disk.
-Download address:
-Files shared through Baidu Web disk: traffic flow statistics
-Link: https://pan.baidu.com/s/1sgN19ZLG9Z2I-TjM3pxB4Q?pwd=jtll
-Extract code: jtll
+这里使用的数据集和完整代码，获取方式如下：
+  百度流量网盘分享的文件：统计
+  链接：https://pan.baidu.com/s/1sgN19ZLG9Z2I-TjM3pxB4Q?pwd=jtll
+  提取码：jtll
+  
+数据集的标注格式为YOLO。
+流量统计算法的完整代码存放在jiandan_demo.py文件中。
 
 
-This code is for learning purposes and is not for commercial use.
